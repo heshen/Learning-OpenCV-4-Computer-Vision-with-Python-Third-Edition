@@ -1,3 +1,6 @@
+# OpenCV 4计算机视觉：Python语言实现（原书第3版）
+[加]约瑟夫·豪斯(Joseph Howse),[爱]乔·米尼奇诺(Joe Minichino) 著
+
 # Learning OpenCV 4 Computer Vision with Python 3 - Third Edition 
 
 <a href="https://www.packtpub.com/data/learning-opencv-4-computer-vision-with-python-3-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789531619"><img src="https://static.packt-cdn.com/products/9781789531619/cover/smaller" alt="Learning OpenCV 4 Computer Vision with Python 3 - Third Edition " height="256px" align="right"></a>
